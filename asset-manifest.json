@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Complete-Anime-Quiz-game-ReactJs/static/css/main.6e28284c.chunk.css",
+    "main.js": "/Complete-Anime-Quiz-game-ReactJs/static/js/main.1db1387d.chunk.js",
+    "main.js.map": "/Complete-Anime-Quiz-game-ReactJs/static/js/main.1db1387d.chunk.js.map",
+    "runtime-main.js": "/Complete-Anime-Quiz-game-ReactJs/static/js/runtime-main.852ae9e7.js",
+    "runtime-main.js.map": "/Complete-Anime-Quiz-game-ReactJs/static/js/runtime-main.852ae9e7.js.map",
+    "static/js/2.7d1b9fa8.chunk.js": "/Complete-Anime-Quiz-game-ReactJs/static/js/2.7d1b9fa8.chunk.js",
+    "static/js/2.7d1b9fa8.chunk.js.map": "/Complete-Anime-Quiz-game-ReactJs/static/js/2.7d1b9fa8.chunk.js.map",
+    "index.html": "/Complete-Anime-Quiz-game-ReactJs/index.html",
+    "precache-manifest.b31918b34a484a8ab6f5e27d7c8098eb.js": "/Complete-Anime-Quiz-game-ReactJs/precache-manifest.b31918b34a484a8ab6f5e27d7c8098eb.js",
+    "service-worker.js": "/Complete-Anime-Quiz-game-ReactJs/service-worker.js",
+    "static/css/main.6e28284c.chunk.css.map": "/Complete-Anime-Quiz-game-ReactJs/static/css/main.6e28284c.chunk.css.map",
+    "static/js/2.7d1b9fa8.chunk.js.LICENSE.txt": "/Complete-Anime-Quiz-game-ReactJs/static/js/2.7d1b9fa8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.852ae9e7.js",
+    "static/js/2.7d1b9fa8.chunk.js",
+    "static/css/main.6e28284c.chunk.css",
+    "static/js/main.1db1387d.chunk.js"
+  ]
+}
